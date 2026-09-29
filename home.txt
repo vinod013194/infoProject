@@ -3,7 +3,7 @@ home data.
 class programme{
 
 public static void (){
-
+System.out.println(" GitHub Test")
 
 }
 }
